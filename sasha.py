@@ -1,2 +1,2 @@
 
-print('Hello, Sasha! This is a Python script.')
+print:('Hello, Sasha! This is a Python script.')
